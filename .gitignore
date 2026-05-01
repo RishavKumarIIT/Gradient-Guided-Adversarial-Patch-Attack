@@ -1,0 +1,21 @@
+# Ignore data folder
+data/
+dataset/
+datasets/
+*.csv
+*.zip
+*.pt
+*.pth
+*.ckpt
+
+# Ignore env
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+
